@@ -1,3 +1,5 @@
+<img src="https://github.com/nasar9766/nasar9766/blob/main/Big%20Data%20Analyst.png?raw=true" width="100%" />
+
 # 👋 Hi, I'm Nasar  
 ### 🚀 Big Data Analyst & Data Engineer  
 #### PySpark | Databricks | Azure Data Factory | Azure Data Lake | SQL | Python
