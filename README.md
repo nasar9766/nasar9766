@@ -71,7 +71,7 @@ I work with large-scale data processing, building ETL pipelines, optimizing big 
 ---
 
 ## 📫 Contact Me  
-📧 **Email:** (yaha apna email dal do)  
+📧 **Email:** (nasarraj99@hmail.com)  
 🌍 **Location:** Bihar, India  
 📘 *Open to Big Data, Azure, and Data Engineering roles*
 
